@@ -1,15 +1,15 @@
 # Hi there, I'm Md. Uodoy Hossan Rafi 👋
 
 ## 🚀 About Me
-I'm a passionate **competitive programmer** and **problem solver**, actively working on **AtCoder** and various other coding platforms. I enjoy tackling algorithmic challenges and optimizing solutions for efficiency.
+I'm a passionate **competitive programmer** and **problem solver**, actively working on **AtCoder & Codefoces** and various other coding platforms. I enjoy tackling algorithmic challenges and optimizing solutions for efficiency.
 
-- 💻 Competitive Programmer | AtCoder Enthusiast  
+- 💻 Competitive Programmer | AtCoder & Codeforces Enthusiast  
 - 🚀 Strong in C++ and algorithmic problem-solving  
 - 🎯 Interested in number theory, optimization, and combinatorics  
 - 🏆 Always striving to improve my problem-solving skills  
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Python
+- **Languages:** C, C++, Python
 - **Tools & OS:** Ubuntu (x86_64), VS Code, Neovim
 - **Other Interests:** Machine Learning (Backpropagation, Word2Vec)
 
