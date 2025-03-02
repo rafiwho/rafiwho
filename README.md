@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Md. Uodoy Hossan Rafi 👋
 
-<!--
-**rafiwho/rafiwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **competitive programmer** and **problem solver**, actively working on **AtCoder** and various other coding platforms. I enjoy tackling algorithmic challenges and optimizing solutions for efficiency.
 
-Here are some ideas to get you started:
+- 💻 Competitive Programmer | AtCoder Enthusiast  
+- 🚀 Strong in C++ and algorithmic problem-solving  
+- 🎯 Interested in number theory, optimization, and combinatorics  
+- 🏆 Always striving to improve my problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** C++, Python
+- **Tools & OS:** Ubuntu (x86_64), VS Code, Neovim
+- **Other Interests:** Machine Learning (Backpropagation, Word2Vec)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiwho&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiwho&layout=compact&theme=tokyonight)
+
+## 📌 Featured Projects
+- [**Competitive Programming Solutions**](https://github.com/rafiwho/competitive-programming) - Solutions to various CP problems
+- [**Halaal Water Website**](https://github.com/rafiwho/halaal-water) - Simple website for my Halaal drinking water business
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rafiwho)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/rafiwho)
+
+### 🚀 Let's Code and Solve!
