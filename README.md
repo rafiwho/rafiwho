@@ -18,8 +18,8 @@ I'm a passionate **competitive programmer** and **problem solver**, actively wor
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiwho&layout=compact&theme=tokyonight)
 
 ## 📌 Featured Projects
-- [**Competitive Programming Solutions**](https://github.com/rafiwho/competitive-programming) - Solutions to various CP problems
-- [**Halaal Water Website**](https://github.com/rafiwho/halaal-water) - Simple website for my Halaal drinking water business
+- [**Competitive Programming Solutions**]([https://github.com/rafiwho/competitive-programming](https://github.com/rafiwho/codes)) - Solutions to various CP problems
+- [**Halaal Water Website**]([https://github.com/rafiwho/halaal-water](https://github.com/rafiwho/halaaldrinkingwater)) - Simple website for my Halaal drinking water business
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rafiwho)
